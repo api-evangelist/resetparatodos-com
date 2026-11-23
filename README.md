@@ -1,4 +1,4 @@
-# resetparatodos-com
+# Reset Para Todos
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -65,4 +65,145 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 resetparatodos-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://resetparatodos.com/
+
+**Areas:** Company
+
+## Reset Para Todos on APIs.io
+
+Everything profiled for Reset Para Todos is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/resetparatodos-com/](https://apis.io/providers/resetparatodos-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (32)
+
+- [Reset Para Todos Admin API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-admin-api/) — The Admin API from Reset Para Todos — 4 operation(s) for admin.
+- [Reset Para Todos Api Docs API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-api-docs-api/) — The Api Docs API from Reset Para Todos — 1 operation(s) for api docs.
+- [Reset Para Todos Auditoria API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-auditoria-api/) — The Auditoria API from Reset Para Todos — 2 operation(s) for auditoria.
+- [Reset Para Todos Ayuda API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-ayuda-api/) — The Ayuda API from Reset Para Todos — 1 operation(s) for ayuda.
+- [Reset Para Todos Catalogo API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-catalogo-api/) — The Catalogo API from Reset Para Todos — 3 operation(s) for catalogo.
+- [Reset Para Todos Clientes API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-clientes-api/) — The Clientes API from Reset Para Todos — 1 operation(s) for clientes.
+- [Reset Para Todos Consola API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-consola-api/) — The Consola API from Reset Para Todos — 1 operation(s) for consola.
+- [Reset Para Todos Constancias API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-constancias-api/) — The Constancias API from Reset Para Todos — 2 operation(s) for constancias.
+- [Reset Para Todos Economia API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-economia-api/) — The Economia API from Reset Para Todos — 1 operation(s) for economia.
+- [Reset Para Todos Empresa API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-empresa-api/) — The Empresa API from Reset Para Todos — 5 operation(s) for empresa.
+- [Reset Para Todos Factura API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-factura-api/) — The Factura API from Reset Para Todos — 5 operation(s) for factura.
+- [Reset Para Todos Fiscal API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-fiscal-api/) — The Fiscal API from Reset Para Todos — 10 operation(s) for fiscal.
+- [Reset Para Todos Historial API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-historial-api/) — The Historial API from Reset Para Todos — 1 operation(s) for historial.
+- [Reset Para Todos Legal API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-legal-api/) — The Legal API from Reset Para Todos — 3 operation(s) for legal.
+- [Reset Para Todos Monitoreo API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-monitoreo-api/) — The Monitoreo API from Reset Para Todos — 9 operation(s) for monitoreo.
+- [Reset Para Todos Organizacion API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-organizacion-api/) — The Organizacion API from Reset Para Todos — 2 operation(s) for organizacion.
+- [Reset Para Todos Padron API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-padron-api/) — The Padron API from Reset Para Todos — 1 operation(s) for padron.
+- [Reset Para Todos Pago API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-pago-api/) — The Pago API from Reset Para Todos — 6 operation(s) for pago.
+- [Reset Para Todos Panel API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-panel-api/) — The Panel API from Reset Para Todos — 1 operation(s) for panel.
+- [Reset Para Todos Precios API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-precios-api/) — The Precios API from Reset Para Todos — 1 operation(s) for precios.
+- [Reset Para Todos Registro API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-registro-api/) — The Registro API from Reset Para Todos — 2 operation(s) for registro.
+- [Reset Para Todos Salud API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-salud-api/) — The Salud API from Reset Para Todos — 1 operation(s) for salud.
+- [Reset Para Todos Screen API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-screen-api/) — The Screen API from Reset Para Todos — 4 operation(s) for screen.
+- [Reset Para Todos Transaccion API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-transaccion-api/) — The Transaccion API from Reset Para Todos — 1 operation(s) for transaccion.
+- [Reset Para Todos Uso API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-uso-api/) — The Uso API from Reset Para Todos — 1 operation(s) for uso.
+- [Reset Para Todos Utilidades API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-utilidades-api/) — The Utilidades API from Reset Para Todos — 6 operation(s) for utilidades.
+- [Reset Para Todos Vendedores API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-vendedores-api/) — The Vendedores API from Reset Para Todos — 1 operation(s) for vendedores.
+- [Reset Para Todos Verificaciones API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-verificaciones-api/) — The Verificaciones API from Reset Para Todos — 3 operation(s) for verificaciones.
+- [Reset Para Todos Wallet API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-wallet-api/) — The Wallet API from Reset Para Todos — 9 operation(s) for wallet.
+- [Reset Para Todos Webhooks API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-webhooks-api/) — The Webhooks API from Reset Para Todos — 3 operation(s) for webhooks.
+- [Reset Para Todos .well Known API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-well-known-api/) — The .well Known API from Reset Para Todos — 2 operation(s) for .well known.
+- [Reset Para Todos X402 API](https://apis.io/apis/resetparatodos-com/resetparatodos-com-x402-api/) — The X402 API from Reset Para Todos — 12 operation(s) for x402.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Reset Para Todos Agentic Access](https://apis.io/agentic-access/resetparatodos-com/resetparatodos-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [REmpresaRfc](https://apis.io/schemas/resetparatodos-com/resetparatodos-com-rempresa-rfc/)
+- [RFacturaVerificar](https://apis.io/schemas/resetparatodos-com/resetparatodos-com-rfactura-verificar/)
+- [RFiscalImss](https://apis.io/schemas/resetparatodos-com/resetparatodos-com-rfiscal-imss/)
+- [RPagoCep](https://apis.io/schemas/resetparatodos-com/resetparatodos-com-rpago-cep/)
+- [RScreenPrepago](https://apis.io/schemas/resetparatodos-com/resetparatodos-com-rscreen-prepago/)
+- [RUtilidadCurp](https://apis.io/schemas/resetparatodos-com/resetparatodos-com-rutilidad-curp/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Resetparatodos Com Context](https://apis.io/jsonld/resetparatodos-com/resetparatodos-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Reset Para Todos API Rules](https://apis.io/rules/resetparatodos-com/resetparatodos-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Reset Para Todos Domain Security](https://apis.io/security/resetparatodos-com/resetparatodos-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://resetparatodos.com/)
+
+## API Evangelist rating
+
+**Kin Score 24.9** — emerging · rubric 0.28.0 · scored 2026-11-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 39.3 |
+| Contract quality | 52.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 27.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 4.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/resetparatodos-com/](https://apis.io/providers/resetparatodos-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Reset Para Todos: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/resetparatodos-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
